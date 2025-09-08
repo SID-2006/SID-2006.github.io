@@ -7,6 +7,6 @@
 </head>
 <body>
     <h1>HELLO FROM SIDDHANT WADHER.</h1><br>
-    <h1>Swapnil Talloo loves Vai...</h1>
+
 </body>
 </html>
